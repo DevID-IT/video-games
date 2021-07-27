@@ -12,7 +12,7 @@ export class SearchBarComponent implements OnInit {
 
   ngOnInit(): void {}
 
-  onSumbit(form: NgForm) {
+  onSubmit(form: NgForm) {
     this.router.navigate(['search', form.value.search]);
   }
 }
