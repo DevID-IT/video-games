@@ -1,5 +1,34 @@
 # VideoGames
 
+Show a result: https://devid-it.github.io/video-games/video-games
+
+## Table of contents
+
+- [General info](#general-info)
+- [Technologies](#technologies)
+- [Description](#description)
+
+## General info
+
+Video games is an application where you can find video games, search the latest uploaded and search it in categories. It's get data from API.
+
+## Technologies
+
+Project is created with:
+
+- AngularJS
+- HTML5
+- SCSS
+- RWD
+
+## Description
+
+- Show default all video games
+- search a video games in selected category
+- show video game details
+
+### Available Scripts
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
 
 ## Development server
